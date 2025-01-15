@@ -8,8 +8,8 @@
 // @match        http://sigeduca.seduc.mt.gov.br/grh/hwmgrhpreatribuicao.aspx
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.br
 // @grant        none
-// @updateURL    https://github.com/lksoumon/extrairMatrizes/raw/refs/heads/main/extrairMatrizes.user.js
-// @downloadURL   https://github.com/lksoumon/extrairMatrizes/raw/refs/heads/main/extrairMatrizes.user.js
+// @updateURL    https://github.com/lksoumon/extrator-Atribui-es-GPE/raw/refs/heads/main/extratorAtribuicao.user.js
+// @downloadURL   https://github.com/lksoumon/extrator-Atribui-es-GPE/raw/refs/heads/main/extratorAtribuicao.user.js
 // ==/UserScript==
 
 // ----- stylesheet
